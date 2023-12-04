@@ -1,0 +1,16 @@
+{
+  "name": "birthman",
+  "version": "1.0.0",
+  "description": "Birthday manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "moment": "^2.29.4",
+    "mongodb": "^6.3.0"
+  }
+}
